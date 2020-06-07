@@ -1,6 +1,8 @@
 # llSPS-INT-1568-Predicting-Life-Expectancy-using-Machine-Learning
 Predicting Life Expectancy using Machine Learning
+
 Project Summary:
+
 “Predicting Life Expectancy using Machine Learning” aims, as the name suggests, to predict the lifespan on a human being, based on diverse datasets, in a demographic region. The life of a human depends on various factors such as Regional variations, Economic Circumstances, Sex Differences, Mental Illnesses, Physical Illnesses, Education, Year of their birth and other demographic factors. The project aims to predict an average life expectancy based on these and several other factors. This project finds the expected solution using various machine learning algorithms such as:
 Linear Regression
 Logistic Regression
@@ -11,6 +13,7 @@ The aim of the project is to find the relationship of the various factors with t
 The dataset used for the prediction contains data from year 2000 to 2015. It contains more than 2500 entries and around 22 columns with various features like Population, Status, Alcohol, Infant Deaths etc., which aids the prediction of the model.
  
 Project Requirements:
+
 This project fundamentally aims in predicting the life expectancy. The primary requirement of the project is the suitable dataset which will aid the prediction. The machine learning model is trained on the basis of the data provided, such that it could predict the average lifespan of an individual in the coming years.
  
 Functional Requirements:
