@@ -1,4 +1,8 @@
 # llSPS-INT-1568-Predicting-Life-Expectancy-using-Machine-Learning
+
+Video Demonstration:
+Link - https://youtu.be/tnS914wqcGw
+
 Predicting Life Expectancy using Machine Learning
 
 Project Summary:
@@ -36,5 +40,3 @@ Software Requirements:
 4. IBM Watson
 5. Node-Red
 
-Video Demonstration:
-Link - https://youtu.be/tnS914wqcGw
