@@ -35,3 +35,6 @@ Software Requirements:
 3. IBM Cloud
 4. IBM Watson
 5. Node-Red
+
+Video Demonstration:
+Link - https://youtu.be/tnS914wqcGw
